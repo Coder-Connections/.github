@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="Coder-Connections.png" alt="Coder-Connections" />
+    <img src="../Coder-Connections.png" alt="Coder-Connections" />
   </a>
 </p>
 
