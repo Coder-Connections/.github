@@ -1,3 +1,5 @@
+## </> Coder-Connections
+
 <div align="center">
 
 <p align="center">
@@ -13,8 +15,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github)](https://github.com/coder-connections)
 [![Community](https://img.shields.io/badge/Community-Open%20Source-green?style=for-the-badge)](https://github.com/coder-connections)
 [![Learning](https://img.shields.io/badge/Learning-Software%20Development-blue?style=for-the-badge)](https://software-dev-engineer.pages.dev/)
-
-## </> Coder-Connections
 
 Coder-Connections is a GitHub organization dedicated to fostering a vibrant community of programmers who are passionate about learning, growing, and sharing knowledge in software development. We believe that the best way to learn is through collaboration, hands-on projects, and connecting with fellow developers.
 
