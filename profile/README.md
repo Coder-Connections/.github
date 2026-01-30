@@ -53,11 +53,6 @@ coder-connections/
 └── resources/                  # Learning resources and references
 ```
 
-## 🎓 Developed By
-
-[![TEC](https://img.shields.io/badge/TEC-blue?style=for-the-badge)](https://tec.edu.my/)
-[![Malaysian Association of Science and Engineering Technology](https://img.shields.io/badge/maset-red?style=for-the-badge)](https://maset.org.my/)
-
 Lead Developer : <a href="https://github.com/AeroerMak"> Mohammed Asif </a>
 
 *Developed for the Coder-Connections community*
